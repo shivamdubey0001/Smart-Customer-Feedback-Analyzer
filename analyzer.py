@@ -1,5 +1,5 @@
 # analyzer.py
-# Smart Customer Feedback Analyzer – Human-Style Code with 💬 Explanations
+# Smart Customer Feedback Analyzer 
 
 import pandas as pd
 import os
